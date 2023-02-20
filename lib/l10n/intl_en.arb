@@ -1,0 +1,13 @@
+{
+  "@@locale": "en",
+  "exampleAPIError": "Example API Error",
+  "typeYourCity": "Type your City",
+  "min": "Min",
+  "max": "Max",
+  "dayForecast": "7 Days forecast:",
+  "getCityWeatherForecast": "Get city weather forecast",
+  "cloud": "Cloud:",
+  "feelsLike": "Feels like:",
+  "errorFetchingWeatherForecast": "Error Fetching Weather Forecast",
+  "tryAgain": "Try it again"
+}
